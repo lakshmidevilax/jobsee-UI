@@ -52,5 +52,13 @@ JobSee is a modern job search mobile application UI designed in Figma. The proje
 ## 🎯 Objective
 To design a modern, visually appealing, and user-friendly job search application that improves the user experience for finding and applying to jobs.
 
+## 🔗 Figma Design
+
+View the complete UI design here:
+
+**Figma File:** https://www.figma.com/design/hNK1NGOqooJe1n7r0PJjEu/Freelance-app?node-id=0-1&t=t5Bgz9WQVP14ax7a-1
+
 ## 👩‍💻 Designed By
+
 **Lakshmidevi M**
+
