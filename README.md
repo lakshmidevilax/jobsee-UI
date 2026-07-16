@@ -17,36 +17,35 @@ JobSee is a modern job search mobile application UI designed in Figma. The proje
 
 ## 📸 UI Screenshots
 
-### 1. Onboarding
-![Onboarding](iPhone%2016%20Plus%20-%201.png)
+### Onboarding
+![Onboarding](01_onboarding.png)
 
-### 2. Login
-![Login](iPhone%2016%20Plus%20-%202%20(1).png)
+### Login
+![Login](02_login.png)
 
-### 3. Screen 3
-![Screen 3](iPhone%2016%20Plus%20-%203.png)
+### Sign Up
+![Sign Up](03_signup.png)
 
-### 4. Screen 4
-![Screen 4](iPhone%2016%20Plus%20-%204.png)
+### Role Selection
+![Role Selection](04_role_selection.png)
 
-### 5. Screen 5
-![Screen 5](iPhone%2016%20Plus%20-%205.png)
+### Home
+![Home](05_home.png)
 
-### 6. Screen 6
-![Screen 6](iPhone%2016%20Plus%20-%206.png)
+### Browse Jobs
+![Browse Jobs](06_browse_jobs.png)
 
-### 7. Screen 7
-![Screen 7](iPhone%2016%20Plus%20-%207.png)
+### Job Details
+![Job Details](07_job_details.png)
 
-### 8. Screen 8
-![Screen 8](iPhone%2016%20Plus%20-%208.png)
+### Messages
+![Messages](08_messages.png)
 
-### 9. Screen 9
-![Screen 9](iPhone%2016%20Plus%20-%209.png)
+### Notifications
+![Notifications](09_notifications.png)
 
-### 10. Screen 10
-![Screen 10](iPhone%2016%20Plus%20-%2010.png)
-
+### Profile
+![Profile](10_profile.png)
 ## 🎨 Design Tool
 - Figma
 
